@@ -7,7 +7,10 @@ def main():
 	world = pyafai.World2D()
 	display =  pyafai.Display(world)
 
+
 	obj = objects.pingPong(200,200)
+
+	
 
 	shape = shapes.Circle(10)
 	obj.add_shape(shape)
