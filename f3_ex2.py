@@ -10,7 +10,7 @@ def main():
 
 	obj = objects.pingPong(200,200)
 
-	
+	print("asdfsgdfsg");
 
 	shape = shapes.Circle(10)
 	obj.add_shape(shape)
